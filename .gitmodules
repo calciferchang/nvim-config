@@ -1,0 +1,18 @@
+[submodule "mason-lspconfig.nvim"]
+	path = mason-lspconfig.nvim
+	url = https://github.com/williamboman/mason-lspconfig.nvim.git
+[submodule "mason.nvim"]
+	path = mason.nvim
+	url = https://github.com/williamboman/mason.nvim.git
+[submodule "nvim-lspconfig"]
+	path = nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "nvim-treesitter"]
+	path = nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "telescope.nvim"]
+	path = telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "plenary.nvim"]
+	path = plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git
