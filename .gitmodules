@@ -16,3 +16,6 @@
 [submodule "plenary.nvim"]
 	path = plenary.nvim
 	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule "conform.nvim"]
+	path = conform.nvim
+	url = https://github.com/stevearc/conform.nvim.git
